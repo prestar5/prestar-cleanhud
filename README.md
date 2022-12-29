@@ -1,5 +1,4 @@
 # prestar-cleanhud
-## description
 a counter-strike source hud suited for movement gamemodes such as bhop, surf and trikz (maybe).
 this is a modification of nira's cleanhud v2 (https://gamebanana.com/mods/382318) adjusted to my needs. it also comes with slight tweaks to make the hud look nicer
 ## how to install
