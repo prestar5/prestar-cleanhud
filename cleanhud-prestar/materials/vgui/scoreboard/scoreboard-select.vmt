@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/scoreboard/scoreboard-select"
+	"$translucent" 1
+}
