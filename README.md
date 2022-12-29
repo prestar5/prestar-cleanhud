@@ -8,3 +8,5 @@ download the lastest .zip file from releases, and extract custom folder into you
 ![in-game](https://imgur.com/bqRlGHg.jpeg)
 ![leaderboard](https://imgur.com/Z16eFjk.jpeg)
 ![chat](https://imgur.com/Y83jMje.jpeg)
+
+rar
