@@ -7,5 +7,5 @@ download the lastest .zip file from releases, and extract custom folder into you
 ![main menu](https://imgur.com/LSgWG5X.jpeg)
 ![in-game](https://imgur.com/bqRlGHg.jpeg)
 ![leaderboard](https://imgur.com/Z16eFjk.jpeg)
+![netgraph and showpos](https://imgur.com/sO9rKZd.jpeg)
 ![chat](https://imgur.com/Y83jMje.jpeg)
-![netgraph and show](https://imgur.com/sO9rKZd.jpeg)
